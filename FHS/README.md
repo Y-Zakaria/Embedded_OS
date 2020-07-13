@@ -1,4 +1,4 @@
-# Embedded_OS
+# Embedded_OS FHS
 
 
 In this project I have created a simple code to explore File Hierarchy Standard supported by Linux and especially the internal information of Linux kernel in Files system /proc.
